@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/Ridwan/3-bedroom-FINAL-edit.jpg",
+    "title": "3 Bedroom Duplex",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Architecture"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      },
+      {
+        "id": 3,
+        "name": "Rendering"
+      }
+	  
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/Ridwan/EXTERIOR-1.png",
+    "title": "Block 24 Slaughter Ave",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Architecture"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/Ridwan/BEDROOM-effectsResult.png",
+    "title": "Bedroom",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Interior Design"
+      },
+      {
+        "id": 2,
+        "name": "Rendering"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/Ridwan/INTERIOR-KITCHEN.jpg",
+    "title": "Kitchen",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Interior Design"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/assets/img/Ridwan/KITCHEN final.png",
+    "title": "Kitchen v2",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Interior Design"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/assets/img/Ridwan/MULTI-APRTMENT-JPEG-FINAL.jpg",
+    "title": "Griffin Apartments",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Architecture"
+      },
+      {
+        "id": 2,
+        "name": "Rendering"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/assets/img/Ridwan/INTERIOR-LIVING-AREA-FINAL.jpg",
+    "title": "Living Area",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Interior Design"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/assets/img/Ridwan/Image-03.png",
+    "title": "GT Bank",
+    "tags": [
+      {
+        "id": 1,
+        "name": "3D Modeling"
+      },
+      {
+        "id": 2,
+        "name": "Modern"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/assets/img/Ridwan/Right-building.png",
+    "title": "Office",
+    "tags": [
+      {
+        "id": 1,
+        "name": "Interior Design"
+      },
+      {
+        "id": 2,
+        "name": "Rendering"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/assets/img/Ridwan/donut-and-coffee.png",
+    "title": "Donut and Coffee",
+    "tags": [
+      {
+        "id": 1,
+        "name": "3D Modeling"
+      },
+      {
+        "id": 2,
+        "name": "Rendering"
+      }
+    ]
+  }
+]

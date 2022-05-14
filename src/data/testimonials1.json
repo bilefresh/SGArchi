@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/img/team/3.jpg",
+        "content": "I just love their design for all stunning details. You must know what can you do for a project before taking it, but with them, the sky is the limit.",
+        "username": "John",
+        "usertitle": "Customer"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/team/3.jpg",
+      "content": "The interior design is top notch!.",
+      "username": "Smith",
+      "usertitle": "Customer"
+    }
+]
