@@ -124,8 +124,8 @@ const Footer = ({ classText }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Arch Template. Made with passion by
-                  <Link href="https://bilesanmifaruk.herokuapp.com">Bilesanmi Farouk</Link>.
+                  © 2022, SGArchi. Made with passion by
+                  <Link href="https://bilesanmifaruk.herokuapp.com"> Bilesanmi Farouk</Link>.
                 </p>
               </div>
             </div>
